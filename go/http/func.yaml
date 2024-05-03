@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: testcore-deploy-source
+runtime: go
+created: 2024-05-03T13:17:55.716559835+09:00
