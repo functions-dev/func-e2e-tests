@@ -1,0 +1,4 @@
+specVersion: 0.36.0
+name: func-e2e-test-deploy-source
+runtime: go
+created: 2024-05-03T13:54:32.758403404+09:00

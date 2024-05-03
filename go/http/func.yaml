@@ -1,4 +1,4 @@
 specVersion: 0.36.0
-name: testcore-deploy-source
+name: func-e2e-test-deploy-template
 runtime: go
 created: 2024-05-03T13:17:55.716559835+09:00
