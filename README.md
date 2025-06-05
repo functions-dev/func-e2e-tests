@@ -1,20 +1,14 @@
-# Go HTTP Function
+# Func E2E Tests Repository
 
-Welcome to your new Go Function! The boilerplate function code can be found in
-[`handle.go`](handle.go). This Function responds to HTTP requests.
+This repository is used for automated E2E tests of the Functions project.
 
-## Development
 
-Develop new features by adding a test to [`handle_test.go`](handle_test.go) for
-each feature, and confirm it works with `go test`.
+Test: func-e2e-test-core-deploy-template
 
-Update the running analog of the function using the `func` CLI or client
-library, and it can be invoked from your browser or from the command line:
+A function template is defined in ./go for use testing templates from a
+remote repository.
 
-```console
-curl http://myfunction.example.com/
-```
-
-For more, see [the complete documentation]('https://github.com/knative/func/tree/main/docs')
+Test: func-e2e-test-remote-source 
+A function instance is defined in the root for deployment.
 
 
