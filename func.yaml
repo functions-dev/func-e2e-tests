@@ -1,5 +1,5 @@
 specVersion: 0.36.0
-name: func-e2e-test-remote-deploy-source
+name: func-e2e-test-remote-source
 runtime: go
 registry: localhost:50000/func
 namespace: default
